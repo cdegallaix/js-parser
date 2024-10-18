@@ -3,7 +3,7 @@
 This is very simple javascript expression evaluator. It can evaluate simple mathematical expressions or logical expressions.
 The idea is to evaluate the expression in a single pass. The expression is tokenized and then evaluated.
 
-This is a very basic implementation to demonstrate the concepts of tokenization and evaluation of expressions (using Abstract Syntax Tree).
+This is a very basic implementation to demonstrate the concepts of tokenization and evaluation of expressions (using [Abstract Syntax Tree](https://en.wikipedia.org/wiki/Abstract_syntax_tree)).
 
 Examples:
 
